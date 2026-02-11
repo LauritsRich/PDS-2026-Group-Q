@@ -1,0 +1,17 @@
+commit 7cf49df7a9d6ba8f523eb314e7d63785bc5b430c
+Author: Laurits <lari@itu.dk>
+Date:   Wed Feb 11 10:48:52 2026 +0100
+
+    Added hello.txt
+
+commit bf5f3c25e742c8511fa232dadae977b9ef785510
+Author: Laurits <lari@itu.dk>
+Date:   Wed Feb 11 10:30:43 2026 +0100
+
+    Add name to README
+
+commit 44e86750e06a3d5b87089ca499026ef7223c36e5
+Author: LauritsRich <lari@itu.dk>
+Date:   Wed Feb 11 10:08:26 2026 +0100
+
+    Initial commit
